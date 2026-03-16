@@ -23,7 +23,7 @@
 
 - **UI/UX Design:** `Figma`, `Adobe Creative Suite`
 - **Frontend:** `Flutter`, `Dart`
-- **Backend:** `Dart`, `Shelf`, ``
+- **Backend:** `Dart`, `Shelf`
 - **Infrastructure:** `Google Cloud Platform`, `Firebase`
 - **CI/CD:** `GitHub Actions`
 
